@@ -1,0 +1,68 @@
+ul{ /*los menus*/
+    list-style: none; /*para quitar los puntitos*/
+    display: flex;
+    justify-content: space-between;
+    margin-left: 22.5%;
+    margin-right: 25%;
+}
+
+ul li a{
+    text-decoration: none; /*para quitar el subrayado del menu*/
+    color:darkcyan;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+
+h2{
+   margin-left: 20%;
+   margin-right: 60%;
+    margin-top: 32px; /*separacion con las cosas que hay arriba*/
+}
+
+h3{
+ 
+   margin-left: 25%;
+   margin-right: 60%;
+    color:darkslategray;
+    margin-top: 30px; /*separacion con las cosas que hay arriba*/
+}
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify; /*para que aparezca todo justo centrado*/
+}
+
+img{
+    width: 35%;
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+}
+
+.parrafos p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+footer{
+    background-color: rgb(208, 214, 219);
+}
+
+footer p{
+    color:black;
+    text-align: center;
+    
+}
+
+footer a{
+   color:darkcyan;
+}
+
+
+
+
